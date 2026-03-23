@@ -22,7 +22,7 @@
 **7- Export the generated exam.**
 
 # How to setup ⚙️
-**1- Install the requirements.txt file (pip install -r requirements.txt)**
+**1- Install the requirements.txt file (pip install -r Requirements.txt)**
 
 **2- Run the notebook cell by cell**
 
