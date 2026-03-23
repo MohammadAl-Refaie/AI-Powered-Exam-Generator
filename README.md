@@ -1,4 +1,4 @@
-# AI-Powered-Exam-Generator
+# AI-Powered-Exam-Generator 📚
 
 **An intelligent exam generation system that automatically creates multiple-choice questions from various document formats using Transformer-based NLP models.**
 
